@@ -6,4 +6,5 @@
 
 # LINKS
 Solution URL: https://www.frontendmentor.io/solutions/responsive-social-proof-section-I4tXtgULMn
+
 Live Site URL: https://responsive-social-proof-section-two.vercel.app/
