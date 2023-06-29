@@ -4,4 +4,6 @@
 
 ## Welcome! 👋
 
+# LINKS
 
+Live Site URL: [https://0xabdulkhalid.github.io/qr-code-component/](https://responsive-social-proof-section-two.vercel.app/)https://responsive-social-proof-section-two.vercel.app/
